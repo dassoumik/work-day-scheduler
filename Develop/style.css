@@ -93,7 +93,8 @@ textarea{
 
 .border-white {
   border-bottom-color: ivory;
-  border-bottom: 2px;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
 }
 
 
