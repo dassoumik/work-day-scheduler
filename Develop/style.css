@@ -9,7 +9,6 @@ textarea{
   border: none;
   resize: none;
   color: #000000;
-  /* border-left: 1px solid black; */
   padding: 10px;
   width: 70%;
   margin: 0;
@@ -32,7 +31,6 @@ textarea{
   text-align: center;
   border-radius: 0px;
   border-style: solid;
-  /* border-top: none; */
   border-right-color: lightgrey;
   border-bottom-color:lightgrey;
   border-top-color:lightgrey;
@@ -46,12 +44,6 @@ textarea{
   border-top: 1px !important;
   border-top-color: lightgrey;
 }
-
-/* .row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;;
-} */
 
 .hour {
   background-color: #ffffff;
@@ -105,4 +97,11 @@ textarea{
   border-bottom-width: thin;
 }
 
-
+.simple-button {
+  border: none;
+  outline: none;
+  font-size: x-large;
+  margin: 0 auto;
+  background-color: white;
+  /* -webkit-transform: scale(2,1);  */
+}

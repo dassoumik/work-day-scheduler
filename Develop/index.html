@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link
-      href="/work-day-scheduler/font-awesome/css/font-awesome.min.css"
+      href="../font-awesome/css/font-awesome.min.css"
       rel="stylesheet"
     />
     <link
@@ -34,7 +34,7 @@
     </header>
     <div class="container mb-5">
       <!-- Timeblocks go here -->
-      <div class="container">
+        <div class="text-center" id="up-arrow"><button class="simple-button"><i class="icon-chevron-up"></i></button></div>
         <div class="row initial">
             <div class="col-lg-1 center-align time-block" value="">
              <span class="center-align"></span> 
@@ -45,9 +45,8 @@
             <div class="col-sm-1 saveBtn left-align center-align border-white">
               <i class="icon-save color-white"></i> 
             </div>
-        </div>
        </div>
-
+       <div class="text-center" id="down-arrow"><button class="simple-button"><i class="icon-chevron-down"></i></button></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script> -->
     <script src="../assets/luxon.js"></script>
