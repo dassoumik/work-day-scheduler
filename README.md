@@ -13,7 +13,17 @@ Create a simple calendar application that allows the user to save events for eac
 ## Screenshots
 - [Mid Day View]("./assets/images/Mid-Day-View.png")
 - [Boundary Value 2AM]("./assets/images/Boundary-Values-2AM.png")
-- [Boundary Value 8PM]("work-day-scheduler\work-day-scheduler\assets\images\Boundary-Values-8PM.png")
-- [Boundary Value EOD]("work-day-scheduler\work-day-scheduler\assets\images\Boundary-Values-EOD.png")
-- [Boundary Value SOD]("work-day-scheduler\work-day-scheduler\assets\images\Boundary-Values-SOD.png")
-- [Scroll Down View]("work-day-scheduler\work-day-scheduler\assets\images\Scroll-Up-View.png")
+- [Boundary Value 8PM]("./assets/images/Boundary-Values-8PM.png")
+- [Boundary Value EOD]("./assets/images/Boundary-Values-EOD.png")
+- [Boundary Value SOD]("./assets/images/Boundary-Values-SOD.png")
+- [Scroll Up View]("./assets/images/Scroll-Up-View.png")
+- [Scroll Down View]("./assets/images/Scroll-Down-View.png")
+- [Unsaved Data Warning on Page Close]("./assets/images/Unsaved-Data-Warning-On-Page-Close.png")
+- [Unsaved Data Warning on Reload]("./assets/images/Unsaved-Data-Warning-On-Reload.png")
+- [Values clear on date change]("./assets/images/Values-Clear-On-Date-Change.png")
+- [Next Day Page View - Previous Day Data Auto Cleared]("./assets/images/Next-Day-Clear-Page.png")
+
+## Learnings
+- This assignment gave a complete hands-on working knowledge with jQuery.
+- Learning the ready() function which waits until Document Object Model (DOM) is ready, to execute the JavaScript code.
+- Learning to use $(this) to identify the current element of the last event within event handler function. 
