@@ -27,3 +27,4 @@ Create a simple calendar application that allows the user to save events for eac
 - This assignment gave a complete hands-on working knowledge with jQuery.
 - Learning the ready() function which waits until Document Object Model (DOM) is ready, to execute the JavaScript code.
 - Learning to use $(this) to identify the current element of the last event within event handler function. 
+- Learning the Luxon utillity to handle date objects and functions.
