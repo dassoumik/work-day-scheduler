@@ -4,7 +4,7 @@ body {
   line-height: 1;
 }
 
-textarea{
+textarea {
   background: transparent;
   border: none;
   resize: none;
@@ -23,19 +23,18 @@ textarea{
   border-bottom: 10px solid black;
 }
 
-.description{
+.description {
   white-space: pre-wrap;
 }
 
-.time-block{
+.time-block {
   text-align: center;
   border-radius: 0px;
   border-style: solid;
   border-right-color: lightgrey;
-  border-bottom-color:lightgrey;
-  border-top-color:lightgrey;
-  border-width:  1px;
-
+  border-bottom-color: lightgrey;
+  border-top-color: lightgrey;
+  border-width: 1px;
   border-left-style: none;
   margin: 0;
 }
@@ -103,5 +102,4 @@ textarea{
   font-size: x-large;
   margin: 0 auto;
   background-color: white;
-  /* -webkit-transform: scale(2,1);  */
 }
