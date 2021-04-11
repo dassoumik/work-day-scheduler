@@ -1,5 +1,7 @@
 # Work Day Scheduler
 
+## ![](https://img.shields.io/badge/license-MIT-yellowgreen) <br>
+
 ## Description
 This is a day planner application which will save all the user entered inputs on the page
 against the time-sots mapped text areas.
@@ -39,3 +41,9 @@ Create a simple calendar application that allows the user to save events for eac
 - Learning the ready() function which waits until Document Object Model (DOM) is ready, to execute the JavaScript code.
 - Learning to use $(this) to identify the current element of the last event within event handler function. 
 - Learning the Luxon utillity to handle date objects and functions.
+
+## License <br>
+This app follow **MIT** licensing rules. Please check below link for more details.
+ <br> <br>
+https://choosealicense.com/licenses/mit/ <br>
+  <br>
