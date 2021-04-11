@@ -48,6 +48,13 @@ This app follow **MIT** licensing rules. Please check below link for more detail
 https://choosealicense.com/licenses/mit/ <br>
   <br>
 
+## Technology Used <br>
+- HTML
+- CSS
+- JQuery
+- Luxon
+- Bootstrap
+
 ## Questions <br>
   Please connnect with me at: <br> contact.soumikdas@gmail.com <br> <br>
   Please also follow my github at the below link: <br>
